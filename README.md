@@ -4,11 +4,16 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+
+
 <!-- #region id="e9e822cb" -->
 This notebook is a collection of short coding puzzles based on the internals of the Transformer. The puzzles are written in Python and can be done in this notebook. After completing these you will have a much better intutive sense of how a Transformer can compute certain logical operations. 
 
 These puzzles are based on [Thinking Like Transformers](https://arxiv.org/pdf/2106.06981.pdf) by Gail Weiss, Yoav Goldberg, Eran Yahav and derived from this [blog post](https://srush.github.io/raspy/).
 <!-- #endregion -->
+
+![image](https://user-images.githubusercontent.com/35882/235678934-44c83052-9743-4de7-a46c-49a517923da1.png)
+
 
 <!-- #region id="8e962052" -->
 ## Goal
